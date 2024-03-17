@@ -1,23 +1,29 @@
 {
   "development": {
     "username": "postgres",
-    "password": "laras",
-    "database": "db_door",
-    "host": "127.0.0.1",
-    "dialect": "postgres"
+    "password": "dZfcxcosFkCipkLFTueYuHBbbEGRdZLA",
+    "database": "railway",
+    "host": "viaduct.proxy.rlwy.net",
+    "dialect": "postgres",
+    "url": "postgresql://postgres:dZfcxcosFkCipkLFTueYuHBbbEGRdZLA@viaduct.proxy.rlwy.net:53942/railway",
+    "port": 53942
   },
   "test": {
     "username": "postgres",
-    "password": "laras",
-    "database": "db_door",
-    "host": "127.0.0.1",
-    "dialect": "postgres"
+    "password": "dZfcxcosFkCipkLFTueYuHBbbEGRdZLA",
+    "database": "railway",
+    "host": "viaduct.proxy.rlwy.net",
+    "dialect": "postgres",
+    "url": "postgresql://postgres:dZfcxcosFkCipkLFTueYuHBbbEGRdZLA@viaduct.proxy.rlwy.net:53942/railway",
+    "port": 53942
   },
   "production": {
     "username": "postgres",
-    "password": "laras",
-    "database": "db_door",
-    "host": "127.0.0.1",
-    "dialect": "postgres"
+    "password": "dZfcxcosFkCipkLFTueYuHBbbEGRdZLA",
+    "database": "railway",
+    "host": "viaduct.proxy.rlwy.net",
+    "dialect": "postgres",
+    "url": "postgresql://postgres:dZfcxcosFkCipkLFTueYuHBbbEGRdZLA@viaduct.proxy.rlwy.net:53942/railway",
+    "port": 53942
   }
 }
